@@ -11,5 +11,3 @@ This project analyzes global UN environmental datasets from 2010 to 2019 to inve
 1. **Data Cleaning & Validation:** Processed raw environmental datasets using iterative cleaning and Complete-Case Filtering protocols to handle missing values and ensure data integrity.
 2. **Correlation Analysis:** Evaluated the statistical relationships between food waste volumes and plastic mismanagement metrics across different regions.
 3. **Regression Modeling:** Utilized regression analysis to model waste trends and identify significant predictors over the decade.
-
-# END 
